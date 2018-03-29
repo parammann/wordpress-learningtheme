@@ -4,7 +4,3 @@
 	<?php wp_head(); ?>
 	</head>
 	<body>
-	<?php
-	echo get_template_directory();
-	?>
-
